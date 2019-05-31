@@ -1,0 +1,38 @@
+fieldset{
+    
+}
+
+nav{
+    border-radius: 3px;
+    background-color: black;
+    display: block;
+
+}
+
+form{
+    box-sizing: border-box;
+    box-decoration-break: unset;
+    background-blend-mode: difference;
+}
+
+fieldset{
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+h1{
+    color: black;
+    margin-top: 0;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+nav{
+    
+}
+
+li{
+    padding-left: 1000px;
+    padding-inline-end: 10px;
+    
+}
